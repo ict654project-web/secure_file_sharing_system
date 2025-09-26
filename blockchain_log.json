@@ -1,0 +1,27 @@
+[
+  {
+    "index": 0,
+    "timestamp": 1747357536.3511715,
+    "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "event": "Genesis block",
+    "data": {
+      "creator": "system",
+      "type": "initialization"
+    },
+    "hash": "b01845e0a98c4d84f5524d36e53474c0184fe4d2db4163fe59c05d7732568d9d"
+  },
+  {
+    "index": 1,
+    "timestamp": 1747361948.0087194,
+    "prev_hash": "b01845e0a98c4d84f5524d36e53474c0184fe4d2db4163fe59c05d7732568d9d",
+    "event": "File uploaded",
+    "data": {
+      "file_id": "ad6f2013-e833-4cd5-bc1e-7406c7a75f67",
+      "original_filename": "1.JPG",
+      "user": "demo_user",
+      "size": 43189,
+      "content_type": "image/jpeg"
+    },
+    "hash": "d8b34222fd27d1fb77ce8ee1205e170f6ee286253db006e967c061f014da6162"
+  }
+]
